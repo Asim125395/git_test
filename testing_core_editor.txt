@@ -1,0 +1,1 @@
+I am going to test how core.editor wordk and I will add this to my Git repository.
